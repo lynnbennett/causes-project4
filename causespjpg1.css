@@ -1,0 +1,31 @@
+.body{
+	background: #525252;
+	color: #fff;
+	font-size: 500;
+	font-family: "Ralway",Arial, sans-serif;
+	font-weight: normal;
+
+}
+
+a{
+	outline: none;
+	color:#f2e0b1;
+	text-decoration: none;
+}
+
+a:hover, a:focus{
+	color: #fff:
+}
+button: focus{
+	outline:none;
+}
+.hidden{
+	position: absolute;
+	overflow: hidden;
+	width: 0;
+	height: 0;
+	pointer-events: none;
+}
+
+/*header */
+.
